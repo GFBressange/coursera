@@ -1,2 +1,3 @@
-ceci est le test final (version 1).
+﻿ceci est le test final (version 1).
 Maintenant, ceci est la trace d'une modification effectuée directement sur github. Il s'agit de voir si elle va se répercuter localement sur le PC après un push (version 2).
+Cela marche bien ! Voici une modif locale (version 3).
